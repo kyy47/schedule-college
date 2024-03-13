@@ -1,0 +1,78 @@
+[
+  {
+    "id": 101,
+    "hari": "Senin",
+    "nama_matkul": "Etika Profesi dan Pendidikan Anti Korupsi",
+    "waktu_mulai": "14.40",
+    "waktu_berakhir": "16.00",
+    "nama_dosen": ["Adinda Mutia Gani, S.H., M.H"],
+    "ruangan": "GS4A"
+  },
+  {
+    "id": 201,
+    "hari": "Selasa",
+    "nama_matkul": "Data Mining",
+    "waktu_mulai": "08.00",
+    "waktu_berakhir": "10.00",
+    "nama_dosen": [
+      "Dr. Ir. Anthony Anggrawan, M.T ,. Ph, D",
+      "Hairani, M.Eng",
+      "Mayadi,M.Kom"
+    ],
+    "ruangan": "2F"
+  },
+  {
+    "id": 301,
+    "hari": "Rabu",
+    "nama_matkul": "Riset Teknologi Informasi",
+    "waktu_mulai": "08.00",
+    "waktu_berakhir": "09.20",
+    "nama_dosen": ["Prof.DR.H.M.Tajuddin, M.Si."],
+    "ruangan": "2F"
+  },
+  {
+    "id": 302,
+    "hari": "Rabu",
+    "nama_matkul": "Natural Language Procossing",
+    "waktu_mulai": "09.20",
+    "waktu_berakhir": "10.40",
+    "nama_dosen": ["I Nyoman Switrayana, S.T., M.T "],
+    "ruangan": "GS4B"
+  },
+  {
+    "id": 401,
+    "hari": "Kamis",
+    "nama_matkul": "Mobile Computing",
+    "waktu_mulai": "16.30",
+    "waktu_berakhir": "17.50",
+    "nama_dosen": ["Agus Pribadi, ST.,M.Sc"],
+    "ruangan": "2A"
+  },
+  {
+    "id": 501,
+    "hari": "Jumat",
+    "nama_matkul": "Machine Learning",
+    "waktu_mulai": "08.00",
+    "waktu_berakhir": "09.20",
+    "nama_dosen": ["Dr. Neny Sulistianingsih, M.Kom"],
+    "ruangan": "2A"
+  },
+  {
+    "id": 502,
+    "hari": "Jumat",
+    "nama_matkul": "Jaringan Syaraf Tiruan",
+    "waktu_mulai": "08.00",
+    "waktu_berakhir": "10.00",
+    "nama_dosen": ["Ria rismayati. M.Kom."],
+    "ruangan": "3B"
+  },
+  {
+    "id": 503,
+    "hari": "Jumat",
+    "nama_matkul": "Komputer dan Masyarakat ",
+    "waktu_mulai": "14.00",
+    "waktu_berakhir": "15.20",
+    "nama_dosen": ["Suriyati. M.Kom."],
+    "ruangan": "3B"
+  }
+]
